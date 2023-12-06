@@ -47,3 +47,4 @@ class AuthService {
 }
 
 export default new AuthService();
+// TO DO: Update auth middleware to work with GraphQL.
