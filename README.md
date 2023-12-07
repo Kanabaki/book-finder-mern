@@ -12,7 +12,7 @@
 - [Questions](#questions)
 
 ## Description 
-Motivation for building the portfolio was to become more familiar with how the React language works. The project was built with intention to be able to be served as an exposee of projects made through a portfolio. Making a portfolio through React absolves the issue of the need for more intensive DOM manipulation and inefficient targeting and rerendering of simpler html pages. Concepts learned through this creation include learning of React components, pages, and even form field authentication. 
+Motivation for the project was brought about by the desire to learn how to integrate graphql to a MERN stack to simplify the front end. The project was built to explore the capabilities of the Apollo server as well as using the GraphQL API to interact with our Mongoose database in a more flexible way. Concepts learned in the development of the app include learning about how the afforementioned programs' packages help to simplify the way that users perform queries, as well as how to set up different routes for development and even learning more about how applications are deployed. 
 
 
 ## Installation
@@ -23,9 +23,9 @@ Usage Image:
 
 ![book-finder-mern-demo-img](/client/src/assets/book-finder-mern.png)
 
-Deployment Link: https://poetic-duckanoo-75fa2c.netlify.app
+Deployed App: https://book-finder-mern.onrender.com/ 
 
-After you run the line **npm start** or by clicking on the deployed link you can then navigate the different pages to explore the app. 
+After you run the line **npm run develop** or click the deployment link, you will be redirected or you can travel to the localhost direction in the terminal to view the app. From there you can start interacting with the app and making search queries for books.
 
 ## Credits
 Original Starter code from: https://github.com/coding-boot-camp/solid-broccoli
